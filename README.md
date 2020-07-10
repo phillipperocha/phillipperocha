@@ -22,9 +22,9 @@ I'm currently working as a **Mid Software Developer**, and also with the roles o
 
 
 
-- 📫 **How to reach me:**
-  - Linkedin: https://www.linkedin.com/in/phillipperocha/
-  - Email: phillipperocha@gmail.com
+#### 📫 How to reach me:
+- Linkedin: https://www.linkedin.com/in/phillipperocha/
+- Email: phillipperocha@gmail.com
 
 <!--
 **phillipperocha/phillipperocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
