@@ -7,7 +7,7 @@ My name is Phillippe and I'm a passionate developer focused on Web, enthusiastic
 I'm currently working as a **Mid Software Developer**, and also with the roles of **Technical Leader** and **Team Leader** of my team at MedicalSys (http://www.medicalsys.com.br/), software that operates in the largest medical clinics in the state, managing end-to-end clinical needs. Facilitating the work of healthcare professionals, secretaries and managers by providing all the necessary tools for patient, professional and financial care management.
 
 :computer: **Programming languages skills:**
-- JavaScript / TypeScript (ES6)
+- JavaScript / TypeScript (ES6+)
 - Python
 - PHP
 
